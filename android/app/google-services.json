@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44777995587",
+    "project_id": "socialfeature-412ca",
+    "storage_bucket": "socialfeature-412ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44777995587:android:fbe42a210aa71908cbc3f6",
+        "android_client_info": {
+          "package_name": "com.socialfeature"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXOw-pbf6C133Gd3yOK6dji9Tl5Q4znI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
